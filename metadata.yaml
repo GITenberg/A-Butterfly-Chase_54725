@@ -1,16 +1,21 @@
 _repo: A-Butterfly-Chase_54725
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Frölich, Lorenz
     gutenberg_agent_id: '48014'
     url: http://www.gutenberg.org/2009/agents/48014
+covers:
+- cover_type: archival
+  image_path: 54725-h/images/cover.jpg
 creator:
   author:
     agent_name: Stahl, P. J.
     gutenberg_agent_id: '48013'
     url: http://www.gutenberg.org/2009/agents/48013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54725#A-Butterfly-Chase
 gutenberg_issued: '2017-05-14'
 gutenberg_type: Text
 identifiers:
